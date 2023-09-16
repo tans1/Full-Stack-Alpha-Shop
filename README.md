@@ -7,7 +7,7 @@
 ## Do you need to contribute ?
 1. **Fork the repository**
 2. **modify as you need and write what you did on the readme file**
-3. **send the Pull Request**
+3. **send me your Pull Request**
 
 **Feel free to contact me**
 
