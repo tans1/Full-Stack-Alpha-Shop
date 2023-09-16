@@ -11,7 +11,7 @@
 
 **Feel free to contact me**
 
-## How does it looks like?
+## What does it look like?
 ![alpha shop](https://github.com/tans1/alpha-Shop/assets/104857366/b09e7ee7-548d-4bfd-a9fb-14d2e002719e)
 
 -- 
