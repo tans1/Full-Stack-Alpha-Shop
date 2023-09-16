@@ -1,0 +1,146 @@
+.display_products{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.cart_products_container {
+    margin-left: 20px;
+    border: 2px solid rgb(230, 10, 142);
+    padding: 0;
+    margin-right: 160px;
+    margin-bottom: 80px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.cart_image{
+    height: 400px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cart_image img{
+    width: 100%;
+    height: 100%;
+}
+
+.cart_product_description{
+    margin-left: 20px;
+    width: 800px;
+    color: white;
+
+}
+
+.cart_product_name,.cart_product_price{
+    margin-top: 18px;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.cart_product_quantity{
+    margin-top: 18px;
+    color: rgb(230, 10, 142);
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.cart_product_quantity button{
+    margin:0 30px;
+    height: 40px;
+    background-color: rgb(230, 10, 142);
+    color: white;
+    padding: 0px 20px;
+    border-radius: 5px;
+    font-size: 25px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    border: none;
+}
+
+.price_button {
+    display: flex;
+    align-items: center;
+}
+
+
+.checkOut{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(230, 10, 142);
+}
+
+.total {
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    margin-right: 100px;
+}
+
+.checkOut_button button{
+    border: none;
+    height: 40px;
+    width: 160px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.Cartsidebar {
+    margin-top: 100px;
+    margin-left: 30px;
+    width: 350px;
+    position: fixed;
+    color: white;
+}
+
+.Cartsidebar__category {
+    font-size: 30px;
+    font-weight: 500;    
+    padding-bottom: 10px;
+    border-bottom: 4px dashed rgb(230, 10, 142);
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.category_list  {
+    width: 220px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.category_list label {
+    margin: 5px 10px;
+    font-size: 20px;
+    font-weight: 600 ;
+    
+
+}
+
+.category_list:hover {
+    border-bottom: 1px solid red;
+}
+
+.Cartsidebar ul {
+    padding: 0;
+    list-style: none;
+    width: 150px;
+}
+
+.category_list label input {
+    margin-right: 10px;
+    font-size: 30px;
+}
+

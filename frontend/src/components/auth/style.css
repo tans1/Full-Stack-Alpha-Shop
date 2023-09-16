@@ -1,0 +1,38 @@
+.authOption {
+    padding-left: 25px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+span {
+    color: white;
+    margin-right: 20px;
+}
+
+.linkk {
+    color: lightyellow;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: underline;
+    display: inline;
+    cursor: pointer;
+}
+
+.authOption button {
+    height: 60px;
+    width: 250px;
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 0 10px;
+    margin-bottom: 5px;
+}
+
+.authOption button img {
+    width: 80px;
+    height: 60px;
+}

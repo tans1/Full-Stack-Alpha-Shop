@@ -1,0 +1,30 @@
+
+.logo {
+    height: 50px;
+    width: 60px;
+}
+.logo-text{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+/* .logo-container{
+    display: flex;
+    align-items: flex-end;
+} */
+
+body{
+    user-select: none;
+}
+
+
+.marquee {
+    margin-top: 100px ;
+    margin-bottom: 100px ;
+}
+
+
+
+
+
+
